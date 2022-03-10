@@ -80,20 +80,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FizzBuzzConvertTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Poin-Test-Training" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="FizzBuzzConvertTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="FizzBuzzEngineTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Poin-Test-Training" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="FizzBuzzEngineTest" />
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FizzBuzzEngineTest.ShouldReturnListWithElement12Fizz4BuzzFizz7WhenGiven7" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Poin-Test-Training" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FizzBuzzEngineTest" />
+      <option name="METHOD_NAME" value="ShouldReturnListWithElement12Fizz4BuzzFizz7WhenGiven7" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -130,10 +131,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.FizzBuzzEngineTest" />
+        <item itemvalue="JUnit.FizzBuzzEngineTest.ShouldReturnListWithElement12Fizz4BuzzFizz7WhenGiven7" />
         <item itemvalue="JUnit.FizzBuzzEngineTest.ShouldReturnListWithElement12Fizz4BuzzWhenGiven5" />
         <item itemvalue="JUnit.FizzBuzzListFactoryTest" />
         <item itemvalue="JUnit.FizzBuzzEngineTest.ShouldReturnListWithElement1WhenGiven1" />
-        <item itemvalue="JUnit.FizzBuzzConvertTest" />
       </list>
     </recent_temporary>
   </component>
