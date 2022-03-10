@@ -8,9 +8,16 @@ import java.util.List;
 public class FizzBuzzEngineTest {
 
     @Test
-    public void ShouldReturnListWithElement1WhenGiven1(){
+    public void ShouldReturnListWithElement1WhenGiven1() throws Exception {
         List expectedList = Arrays.asList(1);
         List actualList = FizzBuzzEngine.fizzBuzzGame(1);
+        Assert.assertEquals(expectedList,actualList);
+    }
+
+    @Test
+    public void ShouldReturnListWithElement12FizzWhenGiven3() throws Exception {
+        List expectedList = Arrays.asList(1,2,"Fizz");
+        List actualList = FizzBuzzEngine.fizzBuzzGame(3);
         Assert.assertEquals(expectedList,actualList);
     }
 }
