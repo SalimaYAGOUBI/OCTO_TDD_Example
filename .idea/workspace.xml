@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08b013fd-2d7d-4306-86a1-221a19270e37" name="Default Changelist" comment="" />
+    <list default="true" id="08b013fd-2d7d-4306-86a1-221a19270e37" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/FizzBuzz/FizzBuzzConvert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/FizzBuzzConvertTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/point/Point.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PointDistanceCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/point/PointDistanceCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/PointDistanceCalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PointDistanceCalculatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/PointTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Point.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PointDistanceCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/PointDistanceCalculatorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/PointDistanceCalculatorTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/PointTest.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +30,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="1-Fizz-test" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="26CIJb3p6r22cD7WQq3EAVdfkhT" />
@@ -31,28 +48,44 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/point" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\salim\OneDrive\Bureau\Etude\S10\Formation\TDD\tdd-training-octo\src\main\java\point" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="FizzBuzz" />
+    </key>
+  </component>
   <component name="RunAnythingCache">
     <option name="myCommands">
       <command value="mvn clean install" />
     </option>
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+  <component name="RunManager" selected="JUnit.FizzBuzzConvertTest">
+    <configuration name="FizzBuzzConvertTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Poin-Test-Training" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FizzBuzzConvertTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FizzBuzzTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Poin-Test-Training" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FizzBuzzTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -68,6 +101,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.FizzBuzzConvertTest" />
+        <item itemvalue="JUnit.FizzBuzzTest" />
         <item itemvalue="JUnit.ListAvergeCalculatorTest" />
       </list>
     </recent_temporary>
@@ -81,6 +116,8 @@
       <option name="presentableId" value="Default" />
       <updated>1646921074766</updated>
       <workItem from="1646921078185" duration="1007000" />
+      <workItem from="1646924819579" duration="2200000" />
+      <workItem from="1646927129192" duration="821000" />
     </task>
     <servers />
   </component>
