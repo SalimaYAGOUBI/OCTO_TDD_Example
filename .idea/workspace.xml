@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08b013fd-2d7d-4306-86a1-221a19270e37" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/FizzBuzz/FizzBuzzListFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FizzBuzz/FizzBuzzListFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/FizzBuzzListFactoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FizzBuzzListFactoryTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/FizzBuzz/FizzBuzzListFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/FizzBuzz/FizzBuzzListFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/FizzBuzzListFactoryTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/FizzBuzzListFactoryTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FizzBuzz/FizzBuzzEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/FizzBuzzEngineTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +39,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/point" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
@@ -65,7 +63,7 @@
       <command value="mvn clean install" />
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.FizzBuzzListFactoryTest">
+  <component name="RunManager" selected="JUnit.FizzBuzzEngineTest.ShouldReturnListWithElement1WhenGiven1">
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -84,6 +82,16 @@
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="FizzBuzzConvertTest" />
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FizzBuzzEngineTest.ShouldReturnListWithElement1WhenGiven1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Poin-Test-Training" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FizzBuzzEngineTest" />
+      <option name="METHOD_NAME" value="ShouldReturnListWithElement1WhenGiven1" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -117,6 +125,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.FizzBuzzEngineTest.ShouldReturnListWithElement1WhenGiven1" />
         <item itemvalue="JUnit.FizzBuzzListFactoryTest" />
         <item itemvalue="JUnit.FizzBuzzConvertTest" />
         <item itemvalue="JUnit.FizzBuzzTest" />
