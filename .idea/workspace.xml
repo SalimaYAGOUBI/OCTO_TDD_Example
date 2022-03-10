@@ -8,6 +8,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/FizzBuzz/FizzBuzzEngine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FizzBuzz/FizzBuzzEngine.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/FizzBuzzEngineTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FizzBuzzEngineTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/FizzBuzz/FizzBuzzEngine.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/FizzBuzz/FizzBuzzEngine.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/FizzBuzzEngineTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/FizzBuzzEngineTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -97,6 +98,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="FizzBuzzEngineTest.ShouldReturnListWithElement12Fizz4BuzzWhenGiven5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Poin-Test-Training" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FizzBuzzEngineTest" />
+      <option name="METHOD_NAME" value="ShouldReturnListWithElement12Fizz4BuzzWhenGiven5" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FizzBuzzEngineTest.ShouldReturnListWithElement1WhenGiven1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Poin-Test-Training" />
       <option name="PACKAGE_NAME" value="" />
@@ -116,22 +127,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FizzBuzzTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Poin-Test-Training" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="FizzBuzzTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.FizzBuzzEngineTest" />
+        <item itemvalue="JUnit.FizzBuzzEngineTest.ShouldReturnListWithElement12Fizz4BuzzWhenGiven5" />
         <item itemvalue="JUnit.FizzBuzzListFactoryTest" />
         <item itemvalue="JUnit.FizzBuzzEngineTest.ShouldReturnListWithElement1WhenGiven1" />
         <item itemvalue="JUnit.FizzBuzzConvertTest" />
-        <item itemvalue="JUnit.FizzBuzzTest" />
       </list>
     </recent_temporary>
   </component>
