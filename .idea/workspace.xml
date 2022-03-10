@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08b013fd-2d7d-4306-86a1-221a19270e37" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/FizzBuzz/FizzBuzzEngine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/FizzBuzzEngineTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/FizzBuzz/FizzBuzzEngine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FizzBuzz/FizzBuzzEngine.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +63,7 @@
       <command value="mvn clean install" />
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.FizzBuzzEngineTest.ShouldReturnListWithElement1WhenGiven1">
+  <component name="RunManager" selected="JUnit.FizzBuzzEngineTest">
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -81,6 +81,15 @@
       <module name="Poin-Test-Training" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="FizzBuzzConvertTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FizzBuzzEngineTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Poin-Test-Training" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FizzBuzzEngineTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -114,22 +123,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListAvergeCalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ListAvergeCalculatorTest" />
-      <option name="METHOD_NAME" value="" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.FizzBuzzEngineTest" />
         <item itemvalue="JUnit.FizzBuzzEngineTest.ShouldReturnListWithElement1WhenGiven1" />
         <item itemvalue="JUnit.FizzBuzzListFactoryTest" />
         <item itemvalue="JUnit.FizzBuzzConvertTest" />
         <item itemvalue="JUnit.FizzBuzzTest" />
-        <item itemvalue="JUnit.ListAvergeCalculatorTest" />
       </list>
     </recent_temporary>
   </component>
