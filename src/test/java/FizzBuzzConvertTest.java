@@ -10,4 +10,10 @@ public class FizzBuzzConvertTest {
         String result = FizzBuzzConvert.convert(3);
         Assert.assertEquals("Fizz",result);
     }
+    @Test
+    public void ShouldReturnBuzzWhenGiven5(){
+        FizzBuzzConvert fizzBuzzConvert = new FizzBuzzConvert();
+        String result = FizzBuzzConvert.convert(5);
+        Assert.assertEquals("Buzz",result);
+    }
 }

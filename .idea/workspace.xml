@@ -5,17 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08b013fd-2d7d-4306-86a1-221a19270e37" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/FizzBuzz/FizzBuzzConvert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/FizzBuzzConvertTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/point/Point.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/PointDistanceCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/point/PointDistanceCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/PointDistanceCalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PointDistanceCalculatorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/PointTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Point.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/PointDistanceCalculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/PointDistanceCalculatorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/PointDistanceCalculatorTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/PointTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/FizzBuzzConvertTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FizzBuzzConvertTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,7 +107,7 @@
       <updated>1646921074766</updated>
       <workItem from="1646921078185" duration="1007000" />
       <workItem from="1646924819579" duration="2200000" />
-      <workItem from="1646927129192" duration="821000" />
+      <workItem from="1646927129192" duration="1064000" />
     </task>
     <servers />
   </component>
