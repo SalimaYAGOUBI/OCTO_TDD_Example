@@ -21,4 +21,10 @@ public class FizzBuzzEngineTest {
         Assert.assertEquals(expectedList,actualList);
     }
 
+    @Test
+    public void ShouldReturnListWithElement12Fizz4BuzzWhenGiven5() throws Exception {
+        List expectedList = Arrays.asList(1,2,"Fizz",4,"Buzz");
+        List actualList = FizzBuzzEngine.fizzBuzzGame(5);
+        Assert.assertEquals(expectedList,actualList);
+    }
 }
