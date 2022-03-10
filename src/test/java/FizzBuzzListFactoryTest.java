@@ -13,5 +13,12 @@ public class FizzBuzzListFactoryTest {
         List actualList = FizzBuzzListFactory.listFactory(1);
         Assert.assertEquals(expectedList,actualList);
     }
+
+    @Test
+    public void ShouldReturnListWith1And2WhenGiven2(){
+        List expectedList = Arrays.asList(1,2);
+        List actualList = FizzBuzzListFactory.listFactory(2);
+        Assert.assertEquals(expectedList,actualList);
+    }
 }
 

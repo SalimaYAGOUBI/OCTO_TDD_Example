@@ -5,6 +5,7 @@ import java.util.List;
 
 public class FizzBuzzListFactory {
     public static List listFactory(int i) {
-        return Arrays.asList(1);
+        if (i == 1) return Arrays.asList(1);
+        else return Arrays.asList(1,2);
     }
 }
