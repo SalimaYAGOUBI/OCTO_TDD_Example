@@ -30,4 +30,10 @@ public class FizzBuzzConvertTest {
         String result = FizzBuzzConvert.convert(10);
         Assert.assertEquals("Buzz",result);
     }
+    @Test
+    public void ShouldReturnFizzBuzzWhenGivenMultiple3And5(){
+        FizzBuzzConvert fizzBuzzConvert = new FizzBuzzConvert();
+        String result = FizzBuzzConvert.convert(15);
+        Assert.assertEquals("FizzBuzz",result);
+    }
 }

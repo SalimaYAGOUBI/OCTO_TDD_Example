@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08b013fd-2d7d-4306-86a1-221a19270e37" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/FizzBuzz/FizzBuzzConvert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FizzBuzz/FizzBuzzConvert.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/FizzBuzzConvertTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FizzBuzzConvertTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/FizzBuzz/FizzBuzzConvert.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/FizzBuzz/FizzBuzzConvert.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/FizzBuzzConvertTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/FizzBuzzConvertTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
